@@ -1,5 +1,5 @@
 # hello-world
-Este é um ficheiro
-* add - selecção de alterações a registar
+This is a file
+* add - selects the changes to register
 * commit - blablabla
 * push - blablabla
